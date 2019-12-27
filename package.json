@@ -8,8 +8,5 @@
   },
   "author": "",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/brentellingson/my-first-package.git"
-  }
+  "repository": "brentellingson/my-first-package.git"
 }
